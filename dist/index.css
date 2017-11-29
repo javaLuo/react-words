@@ -1,0 +1,26 @@
+.react-words {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  perspective: 600px;
+  -webkit-perspective: 600px;
+  -moz-perspective: 600px;
+  -ms-perspective: 600px;
+  -o-perspective: 600px; }
+  .react-words > i {
+    display: inline;
+    transform-style: preserve-3d;
+    -webkit-transform-style: preserve-3d;
+    -moz--transform-style: preserve-3d;
+    -ms--transform-style: preserve-3d;
+    -o--transform-style: preserve-3d; }
+  .react-words.show > i {
+    opacity: 1 !important;
+    -webkit-transform: none !important;
+            transform: none !important;
+    text-shadow: none !important;
+    -webkit-filter: none !important;
+            filter: none !important; }

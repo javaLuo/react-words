@@ -1,0 +1,24 @@
+.react-words{
+	position: relative;
+	display: flex;
+	flex-wrap: wrap;
+	perspective:600px;
+	-webkit-perspective:600px;
+	-moz-perspective:600px;
+	-ms-perspective:600px;
+	-o-perspective:600px;
+	&>i{
+		display: inline;
+		transform-style: preserve-3d;
+	    -webkit-transform-style: preserve-3d;
+	    -moz--transform-style: preserve-3d;
+	    -ms--transform-style: preserve-3d;
+	    -o--transform-style: preserve-3d;
+	}
+	&.show>i{
+		opacity: 1 !important;
+		transform: none !important;
+		text-shadow: none !important;
+		filter: none !important;
+	}
+}
