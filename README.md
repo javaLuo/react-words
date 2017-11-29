@@ -4,12 +4,12 @@
 CSS3实现
 
 ## 示例图 目前拥有以下几种效果
-type = 0 默认 ： ![image](https://github.com/javaLuo/react-words/blob/master/example/assets/1.gif)<br/>
-type = 1 默认 ： ![image](https://github.com/javaLuo/react-words/blob/master/example/assets/2.gif)<br/>
-type = 2 默认 ： ![image](https://github.com/javaLuo/react-words/blob/master/example/assets/3.gif)<br/>
-type = 3 默认 ： ![image](https://github.com/javaLuo/react-words/blob/master/example/assets/4.gif)<br/>
-type = 4 默认 ： ![image](https://github.com/javaLuo/react-words/blob/master/example/assets/5.gif)<br/>
-type = 5 默认 ： ![image](https://github.com/javaLuo/react-words/blob/master/example/assets/6.gif)<br/>
+type = 0 ：<br/> ![image](https://github.com/javaLuo/react-words/blob/master/example/assets/1.gif)<br/>
+type = 1 ：<br/> ![image](https://github.com/javaLuo/react-words/blob/master/example/assets/2.gif)<br/>
+type = 2 ：<br/> ![image](https://github.com/javaLuo/react-words/blob/master/example/assets/3.gif)<br/>
+type = 3 ：<br/> ![image](https://github.com/javaLuo/react-words/blob/master/example/assets/4.gif)<br/>
+type = 4 ：<br/> ![image](https://github.com/javaLuo/react-words/blob/master/example/assets/5.gif)<br/>
+type = 5 ：<br/> ![image](https://github.com/javaLuo/react-words/blob/master/example/assets/6.gif)<br/>
 
 
 ## 1. 安装
