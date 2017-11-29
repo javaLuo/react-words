@@ -24,9 +24,9 @@ npm install react-words --save
 import Words from 'react-words';
 
  <Words
-  show={boolean: true/false}    // 必填 控制显示或隐藏 默认false
-  type={number: 0/1/2/3/4/5}    // 选择一种动画效果 默认0
-  speed={number}                // 动画的速度 默认300（毫秒）
+  show={true/false}     // 必填 控制显示或隐藏 默认false
+  type={0/1/2/3/4/5}    // 选择一种动画效果 默认0
+  speed={300}           // 动画的速度 默认300（毫秒）
  >Hello World!</Words>
  
 ````
