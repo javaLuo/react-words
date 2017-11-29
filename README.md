@@ -15,7 +15,7 @@ type = 5 3D翻转：<br/> ![image](https://github.com/javaLuo/react-words/blob/m
 ## 1. 安装
 
 ````
-npm install react-words -save
+npm install react-words --save
 ````
 
 ## 2. 使用
