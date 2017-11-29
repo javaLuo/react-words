@@ -1,11 +1,11 @@
 {
   "name": "react-words",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "a react verification code component",
   "main": "dist/index.js",
   "scripts": {
     "dev": "webpack-dev-server --config webpack.config.js",
-    "build": "webpack --config webpack.build.config.js --progress --profile --colors"
+    "build": "webpack --config webpack.build.config.js --progress --profile --colors --display-modules"
   },
   "repository": {
     "type": "git",

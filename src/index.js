@@ -1,5 +1,5 @@
 import React from 'react';
-import './index.scss';
+import './index.css';
 
 class Words extends React.Component {
 

@@ -1,5 +1,6 @@
 import React from 'react';
 import Words from '../../dist/index.js';
+import '../../dist/index.css';
 import ReactDom from 'react-dom';
 
 class Test extends React.Component {
