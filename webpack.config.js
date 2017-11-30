@@ -25,7 +25,7 @@ module.exports = {
             use: ['style-loader', 'css-loader', 'postcss-loader']
         })
     },
-    {   // .scss 解析
+    {   // .scss 解析 
         test: /\.scss$/,
         use: ExtractTextPlugin.extract({
             // fallback: 'style-loader',

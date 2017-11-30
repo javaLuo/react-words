@@ -10,6 +10,7 @@
 }
 .react-words>i{
 	display: inline;
+	font-style: normal;
 	transform-style: preserve-3d;
     -webkit-transform-style: preserve-3d;
     -moz--transform-style: preserve-3d;

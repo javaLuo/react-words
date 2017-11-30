@@ -52,5 +52,4 @@ export default Words;
     show: bool, 显示或隐藏
     speed: number, 动画速度
     type: number, 动画方式 0渐隐渐显、1由大到小模糊、2由小变大、3 右侧缩进、4由上即下、5X轴3d旋转90deg
-    style: obj,
 */
