@@ -1,4 +1,5 @@
 # react-words
+[![npm](https://img.shields.io/npm/dy/react-words.svg)](https://www.npmjs.com/package/react-words)
 
 一个简单的React文字效果组件<br/>
 CSS3实现
